@@ -1,7 +1,4 @@
-DSA Assignment
-Document B20729(2) is a zipped folder containingthe assignemnt on Sort and Search algorithms
+#B20729_M23B38_004 is the examination paper contained in a zipped folder. Please receive it...
 
-
-LORRAINE ARINAITWE 
-M23B38/004
-B20279
+#LORRAINE ARINAITWE PAULA
+BSDS
